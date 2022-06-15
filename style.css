@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: aqua;
+  }
+  
+  .container {
+    padding: 10px;
+    border: 2px black dashed;
+    margin-top: 10rem;
+  }
+  
+  #btn {
+    margin: 30px;
+  }
+  
+  #chistes {
+    padding: 10px;
+    border: 2px rgb(101, 148, 213) dashed;
+  
+  }
